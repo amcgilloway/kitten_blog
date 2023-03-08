@@ -10,7 +10,7 @@ body > header {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-color: yellow;
+  background-color: dodgerblue;
 }
 
 body > header > h1 {
