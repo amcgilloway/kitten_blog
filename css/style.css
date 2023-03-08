@@ -10,7 +10,7 @@ body > header {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-color: hotpink;
+  background-color: yellow;
 }
 
 body > header > h1 {
@@ -29,7 +29,7 @@ body > header > nav > ul {
 
 body > header > nav > ul > li > a {
   margin-right: 8px;
-  color: white;
+  color: black;
 }
 
 body > main {
